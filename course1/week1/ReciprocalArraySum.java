@@ -1,4 +1,4 @@
-package edu.coursera.parallel;
+package edu.coursera.parallel
 
 import java.util.concurrent.*;
 
